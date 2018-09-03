@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "784743309985",
+    "firebase_url": "https://mobileinfrastructureapp.firebaseio.com",
+    "project_id": "mobileinfrastructureapp",
+    "storage_bucket": "mobileinfrastructureapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784743309985:android:6cd9263b7be1bb98",
+        "android_client_info": {
+          "package_name": "com.apollina.nfc_fortune_teller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784743309985-0m1a2dkgm0cum0uthoq9ddle8rrjhhrg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "784743309985-0m1a2dkgm0cum0uthoq9ddle8rrjhhrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKix8j2ZzcISdY8vmG_SHsGfJQ8KAR77s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
